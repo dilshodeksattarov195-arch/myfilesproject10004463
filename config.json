@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailrave",
+        "uuid": 32160378,
+        "checksum": "5mly5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
